@@ -6,6 +6,26 @@ import { intakeSchema } from "@/lib/leasing/validation";
 export const runtime = "nodejs";
 export const dynamic = "force-dynamic";
 const cookieName = "property-hub-leasing-session";
+function reportStorageFailure(operation: "read" | "submit", error: unknown) {
+  const knownMessages = [
+    "Leasing storage is not configured.",
+    "Unable to load application options.",
+    "Unable to load your requests.",
+    "Unable to save your request.",
+    "Connect durable leasing storage before accepting requests.",
+  ];
+  // Log only fixed diagnostic labels, never credentials, cookies or form data.
+  console.error("Leasing storage unavailable", {
+    operation,
+    reason:
+      error instanceof Error && knownMessages.includes(error.message)
+        ? error.message
+        : "Unexpected storage error",
+    hostedDemo: process.env.PROPERTY_HUB_LEASING_BACKEND === "supabase-demo",
+    hasUrl: Boolean(process.env.NEXT_PUBLIC_SUPABASE_URL),
+    hasSecret: Boolean(process.env.SUPABASE_SECRET_KEY),
+  });
+}
 function session(request: NextRequest) {
   const existing = request.cookies.get(cookieName)?.value;
   return existing && /^[a-f0-9]{8}-[a-f0-9-]{27}$/i.test(existing)
@@ -40,7 +60,8 @@ export async function GET(request: NextRequest) {
       repository.providers(),
     ]);
     return reply(request, sessionId, { records, providers });
-  } catch {
+  } catch (error) {
+    reportStorageFailure("read", error);
     return reply(
       request,
       sessionId,
@@ -117,7 +138,8 @@ export async function POST(request: NextRequest) {
   try {
     const id = await (await leasingRepository()).submit(sessionId, result.data);
     return reply(request, sessionId, { id, kind: result.data.kind }, 201);
-  } catch {
+  } catch (error) {
+    reportStorageFailure("submit", error);
     return reply(
       request,
       sessionId,
