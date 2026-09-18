@@ -2,6 +2,10 @@
 
 Source repository: https://github.com/Cookarelli/property-hub
 
+Intended Vercel project: https://vercel.com/steves-projects-e37a4ef4/property-hub
+
+These are the user-provided destinations. A project dashboard URL is not evidence of a successful deployment; confirm the deployment reaches Ready and record its public URL after publishing.
+
 The application is the repository root. `vercel.json` uses the locked pnpm version, Next.js framework detection and the audited Webpack production build. Node.js 24 is declared in `package.json`.
 
 ## Vercel setup
