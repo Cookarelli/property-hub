@@ -14,6 +14,7 @@ function reportStorageFailure(operation: "read" | "submit", error: unknown) {
     "Unable to save your request.",
     "Connect durable leasing storage before accepting requests.",
   ];
+  const cause = error instanceof Error ? error.cause : null;
   // Log only fixed diagnostic labels, never credentials, cookies or form data.
   console.error("Leasing storage unavailable", {
     operation,
@@ -24,6 +25,21 @@ function reportStorageFailure(operation: "read" | "submit", error: unknown) {
     hostedDemo: process.env.PROPERTY_HUB_LEASING_BACKEND === "supabase-demo",
     hasUrl: Boolean(process.env.NEXT_PUBLIC_SUPABASE_URL),
     hasSecret: Boolean(process.env.SUPABASE_SECRET_KEY),
+    status:
+      cause &&
+      typeof cause === "object" &&
+      "status" in cause &&
+      typeof cause.status === "number"
+        ? cause.status
+        : undefined,
+    code:
+      cause &&
+      typeof cause === "object" &&
+      "code" in cause &&
+      typeof cause.code === "string" &&
+      /^[A-Za-z0-9_]{1,30}$/.test(cause.code)
+        ? cause.code
+        : undefined,
   });
 }
 function session(request: NextRequest) {

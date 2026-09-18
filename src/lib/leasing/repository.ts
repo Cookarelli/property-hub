@@ -9,6 +9,14 @@ export interface LeasingRepository {
   list(sessionId: string): Promise<IntakeRecord[]>;
   providers(): Promise<Record<string, ApplicationProvider>>;
 }
+function storageError(message: string, status: number, code?: string) {
+  return new Error(message, {
+    cause: {
+      status,
+      code: code && /^[A-Z0-9_]{1,30}$/.test(code) ? code : "transport",
+    },
+  });
+}
 // The demo endpoint is permanently scoped to its fictional organization. Production
 // tenant resolution must use a verified domain and authenticated membership separately.
 export async function leasingRepository(): Promise<LeasingRepository> {
@@ -26,12 +34,17 @@ export async function leasingRepository(): Promise<LeasingRepository> {
     });
     return {
       async providers() {
-        const { data, error } = await client
+        const { data, error, status } = await client
           .from("properties")
           .select("id,application_mode,application_url")
           .eq("organization_id", organizationId)
           .eq("published", true);
-        if (error) throw new Error("Unable to load application options.");
+        if (error)
+          throw storageError(
+            "Unable to load application options.",
+            status,
+            error.code,
+          );
         return Object.fromEntries(
           data.map((p) => [
             p.id,
@@ -46,25 +59,37 @@ export async function leasingRepository(): Promise<LeasingRepository> {
         );
       },
       async submit(sessionId, payload) {
-        const { data, error } = await client.rpc("submit_leasing_intake", {
-          p_org: organizationId,
-          p_session: sessionId,
-          p_request: payload.requestId,
-          p_payload: payload,
-        });
+        const { data, error, status } = await client.rpc(
+          "submit_leasing_intake",
+          {
+            p_org: organizationId,
+            p_session: sessionId,
+            p_request: payload.requestId,
+            p_payload: payload,
+          },
+        );
         if (error || typeof data !== "string")
-          throw new Error("Unable to save your request.");
+          throw storageError(
+            "Unable to save your request.",
+            status,
+            error?.code,
+          );
         return data;
       },
       async list(sessionId) {
-        const { data, error } = await client
+        const { data, error, status } = await client
           .from("leasing_intakes")
           .select("id,kind,created_at,payload,lead_id,tour_request_id")
           .eq("organization_id", organizationId)
           .eq("session_id", sessionId)
           .order("created_at", { ascending: false })
           .limit(100);
-        if (error) throw new Error("Unable to load your requests.");
+        if (error)
+          throw storageError(
+            "Unable to load your requests.",
+            status,
+            error.code,
+          );
         return data as IntakeRecord[];
       },
     };
