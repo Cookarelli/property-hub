@@ -1,0 +1,33 @@
+{
+  "applied": [
+    "20260918055837_organization_roles.sql",
+    "20260918055838_tenant_platform.sql"
+  ],
+  "backup": "/Users/northside/Documents/Codex/2026-09-17/we-are-building-a-production-quality/outputs/property-hub/.local/backups/before-tenant-migration-2026-09-18T06-16-16-865Z",
+  "verifiedTables": 23,
+  "preservedRows": {
+    "activity_events": 30,
+    "announcements": 6,
+    "applications": 6,
+    "buildings": 6,
+    "document_assignments": 1,
+    "documents": 6,
+    "floor_plans": 9,
+    "leads": 45,
+    "lease_residents": 78,
+    "leases": 78,
+    "leasing_intakes": 45,
+    "maintenance_attachments": 0,
+    "maintenance_internal_notes": 0,
+    "maintenance_requests": 12,
+    "maintenance_updates": 12,
+    "organization_memberships": 89,
+    "organizations": 1,
+    "payments": 235,
+    "properties": 3,
+    "residents": 78,
+    "tour_requests": 11,
+    "units": 90,
+    "users": 89
+  }
+}

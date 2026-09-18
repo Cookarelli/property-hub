@@ -1,0 +1,3284 @@
+[
+  {
+    "width": 375,
+    "route": "/",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Property Hub home",
+        "height": 35
+      },
+      {
+        "text": "Any bedroomsStudio1 bedroom2 bedrooms",
+        "height": 23
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 375,
+    "route": "/properties",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Property Hub home",
+        "height": 35
+      },
+      {
+        "text": "The Mercer",
+        "height": 36
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 375,
+    "route": "/properties/the-mercer",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Property Hub home",
+        "height": 35
+      },
+      {
+        "text": "Communities",
+        "height": 14
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 375,
+    "route": "/availability",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Property Hub home",
+        "height": 35
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 375,
+    "route": "/how-it-works",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Property Hub home",
+        "height": 35
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 375,
+    "route": "/contact",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Property Hub home",
+        "height": 35
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 375,
+    "route": "/sign-in",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Property Hub home",
+        "height": 35
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 375,
+    "route": "/apply",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Property Hub home",
+        "height": 35
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 375,
+    "route": "/tour",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Property Hub home",
+        "height": 35
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 375,
+    "route": "/demo",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Property Hub home",
+        "height": 35
+      },
+      {
+        "text": "Public website",
+        "height": 18
+      },
+      {
+        "text": "Choose an experience",
+        "height": 18
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 375,
+    "route": "/demo/owner",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Workspace",
+        "height": 14
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 375,
+    "route": "/demo/resident",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Resident home",
+        "height": 36
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 375,
+    "route": "/demo/resident/payments",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Resident home",
+        "height": 36
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 375,
+    "route": "/demo/resident/payments/pay",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Resident home",
+        "height": 36
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 375,
+    "route": "/demo/resident/maintenance",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Resident home",
+        "height": 36
+      },
+      {
+        "text": "View emergency guidance",
+        "height": 38
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 375,
+    "route": "/demo/resident/maintenance/new",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Resident home",
+        "height": 36
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 375,
+    "route": "/demo/resident/documents",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Resident home",
+        "height": 36
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 375,
+    "route": "/demo/resident/announcements",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Resident home",
+        "height": 36
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 375,
+    "route": "/demo/resident/lease",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Resident home",
+        "height": 36
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 375,
+    "route": "/demo/resident/profile",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Resident home",
+        "height": 36
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 375,
+    "route": "/demo/resident/contact",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Resident home",
+        "height": 36
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 375,
+    "route": "/demo/property-manager",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Workspace",
+        "height": 14
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 375,
+    "route": "/demo/property-manager/properties",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Workspace",
+        "height": 14
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 375,
+    "route": "/demo/property-manager/units",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Workspace",
+        "height": 14
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 375,
+    "route": "/demo/property-manager/residents",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Workspace",
+        "height": 14
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 375,
+    "route": "/demo/property-manager/leads",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Workspace",
+        "height": 14
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 375,
+    "route": "/demo/property-manager/applications",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Workspace",
+        "height": 14
+      },
+      {
+        "text": "View application",
+        "height": 36
+      },
+      {
+        "text": "View application",
+        "height": 36
+      },
+      {
+        "text": "View application",
+        "height": 36
+      },
+      {
+        "text": "View application",
+        "height": 36
+      },
+      {
+        "text": "View application",
+        "height": 36
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 375,
+    "route": "/demo/property-manager/maintenance",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Workspace",
+        "height": 14
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 375,
+    "route": "/demo/property-manager/documents",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Workspace",
+        "height": 14
+      },
+      {
+        "text": "View metadata",
+        "height": 36
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 375,
+    "route": "/demo/property-manager/announcements",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Workspace",
+        "height": 14
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 375,
+    "route": "/demo/property-manager/analytics",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Workspace",
+        "height": 14
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 375,
+    "route": "/demo/property-manager/settings",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Workspace",
+        "height": 14
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 375,
+    "route": "/demo/property-manager/activity",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Workspace",
+        "height": 14
+      },
+      {
+        "text": "September rent received",
+        "height": 21
+      },
+      {
+        "text": "New maintenance request",
+        "height": 21
+      },
+      {
+        "text": "Application ready for review",
+        "height": 21
+      },
+      {
+        "text": "A new tour on the calendar",
+        "height": 21
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 375,
+    "route": "/demo/maintenance",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Workspace",
+        "height": 14
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 375,
+    "route": "/demo/applicant",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Your portal",
+        "height": 14
+      },
+      {
+        "text": "View interested apartment",
+        "height": 18
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 375,
+    "route": "/demo/applicant/saved",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Your portal",
+        "height": 14
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 375,
+    "route": "/demo/applicant/application",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Your portal",
+        "height": 14
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 375,
+    "route": "/demo/applicant/tour",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Your portal",
+        "height": 14
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 375,
+    "route": "/demo/applicant/contact",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Your portal",
+        "height": 14
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 768,
+    "route": "/",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Property Hub home",
+        "height": 38
+      },
+      {
+        "text": "Any bedroomsStudio1 bedroom2 bedrooms",
+        "height": 23
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 768,
+    "route": "/properties",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Property Hub home",
+        "height": 38
+      },
+      {
+        "text": "The Mercer",
+        "height": 36
+      },
+      {
+        "text": "Juniper Park",
+        "height": 36
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 768,
+    "route": "/properties/the-mercer",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Property Hub home",
+        "height": 38
+      },
+      {
+        "text": "Communities",
+        "height": 15
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 768,
+    "route": "/availability",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Property Hub home",
+        "height": 38
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 768,
+    "route": "/how-it-works",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Property Hub home",
+        "height": 38
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 768,
+    "route": "/contact",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Property Hub home",
+        "height": 38
+      },
+      {
+        "text": "Property Hub home",
+        "height": 38
+      },
+      {
+        "text": "Our communities",
+        "height": 15
+      },
+      {
+        "text": "Available apartments",
+        "height": 15
+      },
+      {
+        "text": "How it works",
+        "height": 15
+      },
+      {
+        "text": "Resident demo",
+        "height": 15
+      },
+      {
+        "text": "Resident sign in",
+        "height": 15
+      },
+      {
+        "text": "Get in touch",
+        "height": 15
+      },
+      {
+        "text": "Start Demo",
+        "height": 15
+      },
+      {
+        "text": "Management demo",
+        "height": 15
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 768,
+    "route": "/sign-in",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Property Hub home",
+        "height": 38
+      },
+      {
+        "text": "Property Hub home",
+        "height": 38
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 768,
+    "route": "/apply",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Property Hub home",
+        "height": 38
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 768,
+    "route": "/tour",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Property Hub home",
+        "height": 38
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 768,
+    "route": "/demo",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Property Hub home",
+        "height": 38
+      },
+      {
+        "text": "Public website",
+        "height": 18
+      },
+      {
+        "text": "Choose an experience",
+        "height": 18
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 768,
+    "route": "/demo/owner",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Workspace",
+        "height": 15
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 768,
+    "route": "/demo/resident",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Resident home",
+        "height": 37
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 768,
+    "route": "/demo/resident/payments",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Resident home",
+        "height": 37
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 768,
+    "route": "/demo/resident/payments/pay",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Resident home",
+        "height": 37
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 768,
+    "route": "/demo/resident/maintenance",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Resident home",
+        "height": 37
+      },
+      {
+        "text": "View emergency guidance",
+        "height": 16
+      },
+      {
+        "text": "Property Hub home",
+        "height": 32
+      },
+      {
+        "text": "Here when you need us",
+        "height": 15
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 768,
+    "route": "/demo/resident/maintenance/new",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Resident home",
+        "height": 37
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 768,
+    "route": "/demo/resident/documents",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Resident home",
+        "height": 37
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 768,
+    "route": "/demo/resident/announcements",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Resident home",
+        "height": 37
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 768,
+    "route": "/demo/resident/lease",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Resident home",
+        "height": 37
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 768,
+    "route": "/demo/resident/profile",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Resident home",
+        "height": 37
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 768,
+    "route": "/demo/resident/contact",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Resident home",
+        "height": 37
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 768,
+    "route": "/demo/property-manager",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Workspace",
+        "height": 15
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 768,
+    "route": "/demo/property-manager/properties",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Workspace",
+        "height": 15
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 768,
+    "route": "/demo/property-manager/units",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Workspace",
+        "height": 15
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 768,
+    "route": "/demo/property-manager/residents",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Workspace",
+        "height": 15
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 768,
+    "route": "/demo/property-manager/leads",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Workspace",
+        "height": 15
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 768,
+    "route": "/demo/property-manager/applications",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Workspace",
+        "height": 15
+      },
+      {
+        "text": "View application",
+        "height": 36
+      },
+      {
+        "text": "View application",
+        "height": 36
+      },
+      {
+        "text": "View application",
+        "height": 36
+      },
+      {
+        "text": "View application",
+        "height": 36
+      },
+      {
+        "text": "View application",
+        "height": 36
+      },
+      {
+        "text": "View application",
+        "height": 36
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 768,
+    "route": "/demo/property-manager/maintenance",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Workspace",
+        "height": 15
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 768,
+    "route": "/demo/property-manager/documents",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Workspace",
+        "height": 15
+      },
+      {
+        "text": "View metadata",
+        "height": 36
+      },
+      {
+        "text": "View metadata",
+        "height": 36
+      },
+      {
+        "text": "View metadata",
+        "height": 36
+      },
+      {
+        "text": "View metadata",
+        "height": 36
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 768,
+    "route": "/demo/property-manager/announcements",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Workspace",
+        "height": 15
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 768,
+    "route": "/demo/property-manager/analytics",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Workspace",
+        "height": 15
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 768,
+    "route": "/demo/property-manager/settings",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Workspace",
+        "height": 15
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 768,
+    "route": "/demo/property-manager/activity",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Workspace",
+        "height": 15
+      },
+      {
+        "text": "September rent received",
+        "height": 21
+      },
+      {
+        "text": "New maintenance request",
+        "height": 21
+      },
+      {
+        "text": "Application ready for review",
+        "height": 21
+      },
+      {
+        "text": "A new tour on the calendar",
+        "height": 21
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 768,
+    "route": "/demo/maintenance",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Workspace",
+        "height": 15
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 768,
+    "route": "/demo/applicant",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Your portal",
+        "height": 15
+      },
+      {
+        "text": "View interested apartment",
+        "height": 18
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 768,
+    "route": "/demo/applicant/saved",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Your portal",
+        "height": 15
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 768,
+    "route": "/demo/applicant/application",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Your portal",
+        "height": 15
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 768,
+    "route": "/demo/applicant/tour",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Your portal",
+        "height": 15
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 768,
+    "route": "/demo/applicant/contact",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Your portal",
+        "height": 15
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1280,
+    "route": "/",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Start Demo",
+        "height": 38
+      },
+      {
+        "text": "Property Hub home",
+        "height": 38
+      },
+      {
+        "text": "Any bedroomsStudio1 bedroom2 bedrooms",
+        "height": 18
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1280,
+    "route": "/properties",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Start Demo",
+        "height": 38
+      },
+      {
+        "text": "Property Hub home",
+        "height": 38
+      },
+      {
+        "text": "The Mercer",
+        "height": 36
+      },
+      {
+        "text": "Juniper Park",
+        "height": 36
+      },
+      {
+        "text": "Westhaven Lofts",
+        "height": 36
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1280,
+    "route": "/properties/the-mercer",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Start Demo",
+        "height": 38
+      },
+      {
+        "text": "Property Hub home",
+        "height": 38
+      },
+      {
+        "text": "Communities",
+        "height": 15
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1280,
+    "route": "/availability",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Start Demo",
+        "height": 38
+      },
+      {
+        "text": "Property Hub home",
+        "height": 38
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1280,
+    "route": "/how-it-works",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Start Demo",
+        "height": 38
+      },
+      {
+        "text": "Property Hub home",
+        "height": 38
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1280,
+    "route": "/contact",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Start Demo",
+        "height": 38
+      },
+      {
+        "text": "Property Hub home",
+        "height": 38
+      },
+      {
+        "text": "Property Hub home",
+        "height": 38
+      },
+      {
+        "text": "Our communities",
+        "height": 15
+      },
+      {
+        "text": "Available apartments",
+        "height": 15
+      },
+      {
+        "text": "How it works",
+        "height": 15
+      },
+      {
+        "text": "Resident demo",
+        "height": 15
+      },
+      {
+        "text": "Resident sign in",
+        "height": 15
+      },
+      {
+        "text": "Get in touch",
+        "height": 15
+      },
+      {
+        "text": "Start Demo",
+        "height": 15
+      },
+      {
+        "text": "Management demo",
+        "height": 15
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1280,
+    "route": "/sign-in",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Start Demo",
+        "height": 38
+      },
+      {
+        "text": "Property Hub home",
+        "height": 38
+      },
+      {
+        "text": "Property Hub home",
+        "height": 38
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1280,
+    "route": "/apply",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Start Demo",
+        "height": 38
+      },
+      {
+        "text": "Property Hub home",
+        "height": 38
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1280,
+    "route": "/tour",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Start Demo",
+        "height": 38
+      },
+      {
+        "text": "Property Hub home",
+        "height": 38
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1280,
+    "route": "/demo",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Property Hub home",
+        "height": 38
+      },
+      {
+        "text": "Public website",
+        "height": 18
+      },
+      {
+        "text": "Choose an experience",
+        "height": 18
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1280,
+    "route": "/demo/owner",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Property Hub home",
+        "height": 36
+      },
+      {
+        "text": "Help & getting started",
+        "height": 37
+      },
+      {
+        "text": "Workspace",
+        "height": 15
+      },
+      {
+        "text": "Account menu",
+        "height": 33
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1280,
+    "route": "/demo/resident",
+    "overflow": false,
+    "smallTargets": [],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1280,
+    "route": "/demo/resident/payments",
+    "overflow": false,
+    "smallTargets": [],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1280,
+    "route": "/demo/resident/payments/pay",
+    "overflow": false,
+    "smallTargets": [],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1280,
+    "route": "/demo/resident/maintenance",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "View emergency guidance",
+        "height": 16
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1280,
+    "route": "/demo/resident/maintenance/new",
+    "overflow": false,
+    "smallTargets": [],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1280,
+    "route": "/demo/resident/documents",
+    "overflow": false,
+    "smallTargets": [],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1280,
+    "route": "/demo/resident/announcements",
+    "overflow": false,
+    "smallTargets": [],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1280,
+    "route": "/demo/resident/lease",
+    "overflow": false,
+    "smallTargets": [],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1280,
+    "route": "/demo/resident/profile",
+    "overflow": false,
+    "smallTargets": [],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1280,
+    "route": "/demo/resident/contact",
+    "overflow": false,
+    "smallTargets": [],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1280,
+    "route": "/demo/property-manager",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Property Hub home",
+        "height": 36
+      },
+      {
+        "text": "Help & getting started",
+        "height": 37
+      },
+      {
+        "text": "Workspace",
+        "height": 15
+      },
+      {
+        "text": "Account menu",
+        "height": 33
+      },
+      {
+        "text": "1 urgent repairs →",
+        "height": 18
+      },
+      {
+        "text": "2 submitted applications →",
+        "height": 18
+      },
+      {
+        "text": "9 lease conversations →",
+        "height": 18
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1280,
+    "route": "/demo/property-manager/properties",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Property Hub home",
+        "height": 36
+      },
+      {
+        "text": "Help & getting started",
+        "height": 37
+      },
+      {
+        "text": "Workspace",
+        "height": 15
+      },
+      {
+        "text": "Account menu",
+        "height": 33
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1280,
+    "route": "/demo/property-manager/units",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Property Hub home",
+        "height": 36
+      },
+      {
+        "text": "Help & getting started",
+        "height": 37
+      },
+      {
+        "text": "Workspace",
+        "height": 15
+      },
+      {
+        "text": "Account menu",
+        "height": 33
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1280,
+    "route": "/demo/property-manager/residents",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Property Hub home",
+        "height": 36
+      },
+      {
+        "text": "Help & getting started",
+        "height": 37
+      },
+      {
+        "text": "Workspace",
+        "height": 15
+      },
+      {
+        "text": "Account menu",
+        "height": 33
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1280,
+    "route": "/demo/property-manager/leads",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Property Hub home",
+        "height": 36
+      },
+      {
+        "text": "Help & getting started",
+        "height": 37
+      },
+      {
+        "text": "Workspace",
+        "height": 15
+      },
+      {
+        "text": "Account menu",
+        "height": 33
+      },
+      {
+        "text": "Lead status for Isabella Grant",
+        "height": 36
+      },
+      {
+        "text": "Lead status for Lucas Foster",
+        "height": 36
+      },
+      {
+        "text": "Lead status for Mia Davis",
+        "height": 36
+      },
+      {
+        "text": "Lead status for Leo Marshall",
+        "height": 36
+      },
+      {
+        "text": "Lead status for Amelia Scott",
+        "height": 36
+      },
+      {
+        "text": "Lead status for Henry Ross",
+        "height": 36
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1280,
+    "route": "/demo/property-manager/applications",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Property Hub home",
+        "height": 36
+      },
+      {
+        "text": "Help & getting started",
+        "height": 37
+      },
+      {
+        "text": "Workspace",
+        "height": 15
+      },
+      {
+        "text": "Account menu",
+        "height": 33
+      },
+      {
+        "text": "Application status for Sofia Martinez",
+        "height": 36
+      },
+      {
+        "text": "View application",
+        "height": 36
+      },
+      {
+        "text": "Application status for Noah Williams",
+        "height": 36
+      },
+      {
+        "text": "View application",
+        "height": 36
+      },
+      {
+        "text": "Application status for Emma Clarke",
+        "height": 36
+      },
+      {
+        "text": "View application",
+        "height": 36
+      },
+      {
+        "text": "Application status for Liam Patel",
+        "height": 36
+      },
+      {
+        "text": "View application",
+        "height": 36
+      },
+      {
+        "text": "Application status for Olivia Hayes",
+        "height": 36
+      },
+      {
+        "text": "View application",
+        "height": 36
+      },
+      {
+        "text": "Application status for Ethan Kim",
+        "height": 36
+      },
+      {
+        "text": "View application",
+        "height": 36
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1280,
+    "route": "/demo/property-manager/maintenance",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Property Hub home",
+        "height": 36
+      },
+      {
+        "text": "Help & getting started",
+        "height": 37
+      },
+      {
+        "text": "Workspace",
+        "height": 15
+      },
+      {
+        "text": "Account menu",
+        "height": 33
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1280,
+    "route": "/demo/property-manager/documents",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Property Hub home",
+        "height": 36
+      },
+      {
+        "text": "Help & getting started",
+        "height": 37
+      },
+      {
+        "text": "Workspace",
+        "height": 15
+      },
+      {
+        "text": "Account menu",
+        "height": 33
+      },
+      {
+        "text": "View metadata",
+        "height": 36
+      },
+      {
+        "text": "View metadata",
+        "height": 36
+      },
+      {
+        "text": "View metadata",
+        "height": 36
+      },
+      {
+        "text": "View metadata",
+        "height": 36
+      },
+      {
+        "text": "View metadata",
+        "height": 36
+      },
+      {
+        "text": "View metadata",
+        "height": 36
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1280,
+    "route": "/demo/property-manager/announcements",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Property Hub home",
+        "height": 36
+      },
+      {
+        "text": "Help & getting started",
+        "height": 37
+      },
+      {
+        "text": "Workspace",
+        "height": 15
+      },
+      {
+        "text": "Account menu",
+        "height": 33
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1280,
+    "route": "/demo/property-manager/analytics",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Property Hub home",
+        "height": 36
+      },
+      {
+        "text": "Help & getting started",
+        "height": 37
+      },
+      {
+        "text": "Workspace",
+        "height": 15
+      },
+      {
+        "text": "Account menu",
+        "height": 33
+      },
+      {
+        "text": "1 urgent repairs →",
+        "height": 18
+      },
+      {
+        "text": "2 submitted applications →",
+        "height": 18
+      },
+      {
+        "text": "9 lease conversations →",
+        "height": 18
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1280,
+    "route": "/demo/property-manager/settings",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Property Hub home",
+        "height": 36
+      },
+      {
+        "text": "Help & getting started",
+        "height": 37
+      },
+      {
+        "text": "Workspace",
+        "height": 15
+      },
+      {
+        "text": "Account menu",
+        "height": 33
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1280,
+    "route": "/demo/property-manager/activity",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Property Hub home",
+        "height": 36
+      },
+      {
+        "text": "Help & getting started",
+        "height": 37
+      },
+      {
+        "text": "Workspace",
+        "height": 15
+      },
+      {
+        "text": "Account menu",
+        "height": 33
+      },
+      {
+        "text": "Refresh",
+        "height": 36
+      },
+      {
+        "text": "All activity",
+        "height": 34
+      },
+      {
+        "text": "application",
+        "height": 34
+      },
+      {
+        "text": "tour",
+        "height": 34
+      },
+      {
+        "text": "maintenance",
+        "height": 34
+      },
+      {
+        "text": "payment",
+        "height": 34
+      },
+      {
+        "text": "announcement",
+        "height": 34
+      },
+      {
+        "text": "September rent received",
+        "height": 21
+      },
+      {
+        "text": "New maintenance request",
+        "height": 21
+      },
+      {
+        "text": "Application ready for review",
+        "height": 21
+      },
+      {
+        "text": "A new tour on the calendar",
+        "height": 21
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1280,
+    "route": "/demo/maintenance",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Property Hub home",
+        "height": 36
+      },
+      {
+        "text": "Help & getting started",
+        "height": 37
+      },
+      {
+        "text": "Workspace",
+        "height": 15
+      },
+      {
+        "text": "Account menu",
+        "height": 33
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1280,
+    "route": "/demo/applicant",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Property Hub home",
+        "height": 36
+      },
+      {
+        "text": "Help & getting started",
+        "height": 37
+      },
+      {
+        "text": "Your portal",
+        "height": 15
+      },
+      {
+        "text": "Account menu",
+        "height": 33
+      },
+      {
+        "text": "View interested apartment",
+        "height": 18
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1280,
+    "route": "/demo/applicant/saved",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Property Hub home",
+        "height": 36
+      },
+      {
+        "text": "Help & getting started",
+        "height": 37
+      },
+      {
+        "text": "Your portal",
+        "height": 15
+      },
+      {
+        "text": "Account menu",
+        "height": 33
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1280,
+    "route": "/demo/applicant/application",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Property Hub home",
+        "height": 36
+      },
+      {
+        "text": "Help & getting started",
+        "height": 37
+      },
+      {
+        "text": "Your portal",
+        "height": 15
+      },
+      {
+        "text": "Account menu",
+        "height": 33
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1280,
+    "route": "/demo/applicant/tour",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Property Hub home",
+        "height": 36
+      },
+      {
+        "text": "Help & getting started",
+        "height": 37
+      },
+      {
+        "text": "Your portal",
+        "height": 15
+      },
+      {
+        "text": "Account menu",
+        "height": 33
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1280,
+    "route": "/demo/applicant/contact",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Property Hub home",
+        "height": 36
+      },
+      {
+        "text": "Help & getting started",
+        "height": 37
+      },
+      {
+        "text": "Your portal",
+        "height": 15
+      },
+      {
+        "text": "Account menu",
+        "height": 33
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1920,
+    "route": "/",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Start Demo",
+        "height": 38
+      },
+      {
+        "text": "Property Hub home",
+        "height": 38
+      },
+      {
+        "text": "Any bedroomsStudio1 bedroom2 bedrooms",
+        "height": 18
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1920,
+    "route": "/properties",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Start Demo",
+        "height": 38
+      },
+      {
+        "text": "Property Hub home",
+        "height": 38
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1920,
+    "route": "/properties/the-mercer",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Start Demo",
+        "height": 38
+      },
+      {
+        "text": "Property Hub home",
+        "height": 38
+      },
+      {
+        "text": "Communities",
+        "height": 15
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1920,
+    "route": "/availability",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Start Demo",
+        "height": 38
+      },
+      {
+        "text": "Property Hub home",
+        "height": 38
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1920,
+    "route": "/how-it-works",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Start Demo",
+        "height": 38
+      },
+      {
+        "text": "Property Hub home",
+        "height": 38
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1920,
+    "route": "/contact",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Start Demo",
+        "height": 38
+      },
+      {
+        "text": "Property Hub home",
+        "height": 38
+      },
+      {
+        "text": "Property Hub home",
+        "height": 38
+      },
+      {
+        "text": "Our communities",
+        "height": 15
+      },
+      {
+        "text": "Available apartments",
+        "height": 15
+      },
+      {
+        "text": "How it works",
+        "height": 15
+      },
+      {
+        "text": "Resident demo",
+        "height": 15
+      },
+      {
+        "text": "Resident sign in",
+        "height": 15
+      },
+      {
+        "text": "Get in touch",
+        "height": 15
+      },
+      {
+        "text": "Start Demo",
+        "height": 15
+      },
+      {
+        "text": "Management demo",
+        "height": 15
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1920,
+    "route": "/sign-in",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Start Demo",
+        "height": 38
+      },
+      {
+        "text": "Property Hub home",
+        "height": 38
+      },
+      {
+        "text": "Property Hub home",
+        "height": 38
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1920,
+    "route": "/apply",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Start Demo",
+        "height": 38
+      },
+      {
+        "text": "Property Hub home",
+        "height": 38
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1920,
+    "route": "/tour",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Start Demo",
+        "height": 38
+      },
+      {
+        "text": "Property Hub home",
+        "height": 38
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1920,
+    "route": "/demo",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Property Hub home",
+        "height": 38
+      },
+      {
+        "text": "Public website",
+        "height": 18
+      },
+      {
+        "text": "Choose an experience",
+        "height": 18
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1920,
+    "route": "/demo/owner",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Property Hub home",
+        "height": 36
+      },
+      {
+        "text": "Help & getting started",
+        "height": 37
+      },
+      {
+        "text": "Workspace",
+        "height": 15
+      },
+      {
+        "text": "Account menu",
+        "height": 33
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1920,
+    "route": "/demo/resident",
+    "overflow": false,
+    "smallTargets": [],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1920,
+    "route": "/demo/resident/payments",
+    "overflow": false,
+    "smallTargets": [],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1920,
+    "route": "/demo/resident/payments/pay",
+    "overflow": false,
+    "smallTargets": [],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1920,
+    "route": "/demo/resident/maintenance",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "View emergency guidance",
+        "height": 16
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1920,
+    "route": "/demo/resident/maintenance/new",
+    "overflow": false,
+    "smallTargets": [],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1920,
+    "route": "/demo/resident/documents",
+    "overflow": false,
+    "smallTargets": [],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1920,
+    "route": "/demo/resident/announcements",
+    "overflow": false,
+    "smallTargets": [],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1920,
+    "route": "/demo/resident/lease",
+    "overflow": false,
+    "smallTargets": [],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1920,
+    "route": "/demo/resident/profile",
+    "overflow": false,
+    "smallTargets": [],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1920,
+    "route": "/demo/resident/contact",
+    "overflow": false,
+    "smallTargets": [],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1920,
+    "route": "/demo/property-manager",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Property Hub home",
+        "height": 36
+      },
+      {
+        "text": "Help & getting started",
+        "height": 37
+      },
+      {
+        "text": "Workspace",
+        "height": 15
+      },
+      {
+        "text": "Account menu",
+        "height": 33
+      },
+      {
+        "text": "1 urgent repairs →",
+        "height": 18
+      },
+      {
+        "text": "2 submitted applications →",
+        "height": 18
+      },
+      {
+        "text": "9 lease conversations →",
+        "height": 18
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1920,
+    "route": "/demo/property-manager/properties",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Property Hub home",
+        "height": 36
+      },
+      {
+        "text": "Help & getting started",
+        "height": 37
+      },
+      {
+        "text": "Workspace",
+        "height": 15
+      },
+      {
+        "text": "Account menu",
+        "height": 33
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1920,
+    "route": "/demo/property-manager/units",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Property Hub home",
+        "height": 36
+      },
+      {
+        "text": "Help & getting started",
+        "height": 37
+      },
+      {
+        "text": "Workspace",
+        "height": 15
+      },
+      {
+        "text": "Account menu",
+        "height": 33
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1920,
+    "route": "/demo/property-manager/residents",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Property Hub home",
+        "height": 36
+      },
+      {
+        "text": "Help & getting started",
+        "height": 37
+      },
+      {
+        "text": "Workspace",
+        "height": 15
+      },
+      {
+        "text": "Account menu",
+        "height": 33
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1920,
+    "route": "/demo/property-manager/leads",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Property Hub home",
+        "height": 36
+      },
+      {
+        "text": "Help & getting started",
+        "height": 37
+      },
+      {
+        "text": "Workspace",
+        "height": 15
+      },
+      {
+        "text": "Account menu",
+        "height": 33
+      },
+      {
+        "text": "Lead status for Isabella Grant",
+        "height": 36
+      },
+      {
+        "text": "Lead status for Lucas Foster",
+        "height": 36
+      },
+      {
+        "text": "Lead status for Mia Davis",
+        "height": 36
+      },
+      {
+        "text": "Lead status for Leo Marshall",
+        "height": 36
+      },
+      {
+        "text": "Lead status for Amelia Scott",
+        "height": 36
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1920,
+    "route": "/demo/property-manager/applications",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Property Hub home",
+        "height": 36
+      },
+      {
+        "text": "Help & getting started",
+        "height": 37
+      },
+      {
+        "text": "Workspace",
+        "height": 15
+      },
+      {
+        "text": "Account menu",
+        "height": 33
+      },
+      {
+        "text": "Application status for Sofia Martinez",
+        "height": 36
+      },
+      {
+        "text": "View application",
+        "height": 36
+      },
+      {
+        "text": "Application status for Noah Williams",
+        "height": 36
+      },
+      {
+        "text": "View application",
+        "height": 36
+      },
+      {
+        "text": "Application status for Emma Clarke",
+        "height": 36
+      },
+      {
+        "text": "View application",
+        "height": 36
+      },
+      {
+        "text": "Application status for Liam Patel",
+        "height": 36
+      },
+      {
+        "text": "View application",
+        "height": 36
+      },
+      {
+        "text": "Application status for Olivia Hayes",
+        "height": 36
+      },
+      {
+        "text": "View application",
+        "height": 36
+      },
+      {
+        "text": "Application status for Ethan Kim",
+        "height": 36
+      },
+      {
+        "text": "View application",
+        "height": 36
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1920,
+    "route": "/demo/property-manager/maintenance",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Property Hub home",
+        "height": 36
+      },
+      {
+        "text": "Help & getting started",
+        "height": 37
+      },
+      {
+        "text": "Workspace",
+        "height": 15
+      },
+      {
+        "text": "Account menu",
+        "height": 33
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1920,
+    "route": "/demo/property-manager/documents",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Property Hub home",
+        "height": 36
+      },
+      {
+        "text": "Help & getting started",
+        "height": 37
+      },
+      {
+        "text": "Workspace",
+        "height": 15
+      },
+      {
+        "text": "Account menu",
+        "height": 33
+      },
+      {
+        "text": "View metadata",
+        "height": 36
+      },
+      {
+        "text": "View metadata",
+        "height": 36
+      },
+      {
+        "text": "View metadata",
+        "height": 36
+      },
+      {
+        "text": "View metadata",
+        "height": 36
+      },
+      {
+        "text": "View metadata",
+        "height": 36
+      },
+      {
+        "text": "View metadata",
+        "height": 36
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1920,
+    "route": "/demo/property-manager/announcements",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Property Hub home",
+        "height": 36
+      },
+      {
+        "text": "Help & getting started",
+        "height": 37
+      },
+      {
+        "text": "Workspace",
+        "height": 15
+      },
+      {
+        "text": "Account menu",
+        "height": 33
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1920,
+    "route": "/demo/property-manager/analytics",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Property Hub home",
+        "height": 36
+      },
+      {
+        "text": "Help & getting started",
+        "height": 37
+      },
+      {
+        "text": "Workspace",
+        "height": 15
+      },
+      {
+        "text": "Account menu",
+        "height": 33
+      },
+      {
+        "text": "1 urgent repairs →",
+        "height": 18
+      },
+      {
+        "text": "2 submitted applications →",
+        "height": 18
+      },
+      {
+        "text": "9 lease conversations →",
+        "height": 18
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1920,
+    "route": "/demo/property-manager/settings",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Property Hub home",
+        "height": 36
+      },
+      {
+        "text": "Help & getting started",
+        "height": 37
+      },
+      {
+        "text": "Workspace",
+        "height": 15
+      },
+      {
+        "text": "Account menu",
+        "height": 33
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1920,
+    "route": "/demo/property-manager/activity",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Property Hub home",
+        "height": 36
+      },
+      {
+        "text": "Help & getting started",
+        "height": 37
+      },
+      {
+        "text": "Workspace",
+        "height": 15
+      },
+      {
+        "text": "Account menu",
+        "height": 33
+      },
+      {
+        "text": "Refresh",
+        "height": 36
+      },
+      {
+        "text": "All activity",
+        "height": 34
+      },
+      {
+        "text": "application",
+        "height": 34
+      },
+      {
+        "text": "tour",
+        "height": 34
+      },
+      {
+        "text": "maintenance",
+        "height": 34
+      },
+      {
+        "text": "payment",
+        "height": 34
+      },
+      {
+        "text": "announcement",
+        "height": 34
+      },
+      {
+        "text": "September rent received",
+        "height": 21
+      },
+      {
+        "text": "New maintenance request",
+        "height": 21
+      },
+      {
+        "text": "Application ready for review",
+        "height": 21
+      },
+      {
+        "text": "A new tour on the calendar",
+        "height": 21
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1920,
+    "route": "/demo/maintenance",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Property Hub home",
+        "height": 36
+      },
+      {
+        "text": "Help & getting started",
+        "height": 37
+      },
+      {
+        "text": "Workspace",
+        "height": 15
+      },
+      {
+        "text": "Account menu",
+        "height": 33
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1920,
+    "route": "/demo/applicant",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Property Hub home",
+        "height": 36
+      },
+      {
+        "text": "Help & getting started",
+        "height": 37
+      },
+      {
+        "text": "Your portal",
+        "height": 15
+      },
+      {
+        "text": "Account menu",
+        "height": 33
+      },
+      {
+        "text": "View interested apartment",
+        "height": 18
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1920,
+    "route": "/demo/applicant/saved",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Property Hub home",
+        "height": 36
+      },
+      {
+        "text": "Help & getting started",
+        "height": 37
+      },
+      {
+        "text": "Your portal",
+        "height": 15
+      },
+      {
+        "text": "Account menu",
+        "height": 33
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1920,
+    "route": "/demo/applicant/application",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Property Hub home",
+        "height": 36
+      },
+      {
+        "text": "Help & getting started",
+        "height": 37
+      },
+      {
+        "text": "Your portal",
+        "height": 15
+      },
+      {
+        "text": "Account menu",
+        "height": 33
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1920,
+    "route": "/demo/applicant/tour",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Property Hub home",
+        "height": 36
+      },
+      {
+        "text": "Help & getting started",
+        "height": 37
+      },
+      {
+        "text": "Your portal",
+        "height": 15
+      },
+      {
+        "text": "Account menu",
+        "height": 33
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  },
+  {
+    "width": 1920,
+    "route": "/demo/applicant/contact",
+    "overflow": false,
+    "smallTargets": [
+      {
+        "text": "Property Hub home",
+        "height": 36
+      },
+      {
+        "text": "Help & getting started",
+        "height": 37
+      },
+      {
+        "text": "Your portal",
+        "height": 15
+      },
+      {
+        "text": "Account menu",
+        "height": 33
+      }
+    ],
+    "errors": [],
+    "brokenImages": [],
+    "violations": []
+  }
+]
