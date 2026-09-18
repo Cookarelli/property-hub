@@ -4,6 +4,10 @@ A multi-tenant property management SaaS foundation with polished public, managem
 
 Built with **Next.js 16 App Router, strict TypeScript, Tailwind CSS 4, shadcn/ui, and Supabase/PostgreSQL**. All demonstration communities and people are fictional.
 
+**[Open the live demo](https://property-hub-orpin.vercel.app/demo)** · [Public website](https://property-hub-orpin.vercel.app) · [Deployment setup and verified checks](docs/DEPLOYMENT.md)
+
+GitHub `main` automatically deploys to Vercel. Hosted public tour and application inquiries persist in the dedicated Supabase demo project.
+
 ## Run the demo
 
 Use Node.js 24 and the pinned pnpm version from `package.json`.
@@ -66,7 +70,7 @@ See [public leasing implementation notes](docs/PUBLIC-LEASING.md) for security b
 
 ## Database setup
 
-The six migrations in `supabase/migrations` cover the foundation, public leasing, resident experience, and management workflows. The management migrations, `20260918043102_management_workflows.sql` and `20260918045756_document_assignment_access.sql`, provide private maintenance notes, revocable document assignments, building audiences, CRM contact/stage fields, application household metadata, and durable public-intake activity events. Legacy document recipients are migrated to the assignment table so revoking access works consistently. New documents default to staff-only access. Existing data is preserved. Demo rows live in `supabase/seed.sql` and are generated from `src/lib/demo/data.ts`. The sales demo pass required no additional migration or schema changes.
+The nine migrations in `supabase/migrations` cover the foundation, public leasing, resident experience, management workflows, tenant/platform roles, and customer onboarding. The management migrations, `20260918043102_management_workflows.sql` and `20260918045756_document_assignment_access.sql`, provide private maintenance notes, revocable document assignments, building audiences, CRM contact/stage fields, application household metadata, and durable public-intake activity events. Legacy document recipients are migrated to the assignment table so revoking access works consistently. New documents default to staff-only access. Existing data is preserved. Demo rows live in `supabase/seed.sql` and are generated from `src/lib/demo/data.ts`. All nine migrations are installed in the hosted demo database; the deployment pass added no new schema migration.
 
 For a **disposable local development database**, install Docker, then:
 
@@ -133,6 +137,6 @@ pnpm exec supabase gen types --local --lang typescript --schema public > src/lib
 
 ## Limits of this foundation
 
-The demo workflows are interactive and local. Production onboarding, domain CRUD, payment processing, screening, live scheduling, notifications, private file storage, and offline service-worker behavior are not connected. The app has not been published to Vercel. Those are explicit next-pass tasks, documented in [ARCHITECTURE.md](docs/ARCHITECTURE.md).
+The hosted sales demo is live. Demo maintenance, payments, attachments, and persona changes remain browser-local; public leasing inquiries persist in Supabase. Authenticated organization onboarding and workspaces require provisioned accounts and memberships. The first real platform administrator and production email delivery still need setup. Real payment processing, screening, live scheduling, notifications, complete production resident/management workflows, and offline service-worker behavior remain next-pass work. See [deployment boundaries](docs/DEPLOYMENT.md) and [architecture](docs/ARCHITECTURE.md).
 
 Apartment photography is illustrative, downloaded from [Unsplash Images](https://images.unsplash.com), and is not a photograph of a real community represented by the demo names. Fonts are DM Sans and Manrope (bundled through Fontsource). shadcn/ui components are included as editable source.
